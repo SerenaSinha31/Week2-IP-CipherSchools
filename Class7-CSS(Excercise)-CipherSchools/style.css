@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-header{
+    background-color: rgb(182, 219, 252);
+}
+.main-section{
+    background-color: aquamarine;
+}
+.secondary{
+    color: rgb(197, 177, 146);
+}
+span{
+    background-color: blueviolet;
+}
