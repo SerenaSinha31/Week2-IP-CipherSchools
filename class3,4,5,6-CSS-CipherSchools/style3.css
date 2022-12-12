@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main-Heading{
+    background-color: aquamarine;
+}
+
+.main-section{
+    background-color: rgb(166, 226, 226);
+}
+
+p{
+    background-color: rgb(231, 141, 6);
+}
