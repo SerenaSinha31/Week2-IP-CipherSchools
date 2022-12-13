@@ -1,0 +1,18 @@
+/*margin collapsing*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.class-box, .class-box1{
+    border: 2px solid gainsboro;
+    padding: 10px;
+}
+
+.class-box{
+    margin-bottom: 40px;
+}
+
+.class-box1{
+    margin-top: 50px;
+}

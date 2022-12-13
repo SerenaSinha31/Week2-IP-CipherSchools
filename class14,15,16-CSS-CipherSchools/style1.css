@@ -1,0 +1,32 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&family=Roboto&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+} 
+
+.container{
+    width: 1000px;
+    /*border: 2px solid red;*/
+    margin: 0px auto;/*to assign content at center*/
+}
+
+
+
+
+h1{
+    background-color: rgb(187, 228, 228);
+    text-align: center;/*to align text in center*/
+    padding: 15px 0px;/*to add space up,down and side*/
+}
+
+section{
+    border: 2px solid gray; /*to store content in box*/
+}
+
+.about-me{
+    margin-bottom: 40px;
+}
+
+section h3{
+    text-transform: uppercase;/*to transform using css*/
+
+}
